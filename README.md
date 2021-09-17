@@ -1,6 +1,6 @@
 # tcpfeature
 # 29 characteristics of network attack data
-| # | feature | Description |
+| # | Feature | Description |
 |---|---------|-------------|
 | 1 | duration | length (number of seconds) of the connection |
 | 2 | protocol_type | type of the protocol, e.g. tcp, udp, etc. |
