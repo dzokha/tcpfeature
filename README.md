@@ -1,4 +1,6 @@
-# tcpfeature
+# Tcpfeature
+
+Tcpfeature module is proposed to extract, normalize 29 features from network packets
 
 # 29 characteristics of network attack data
 
