@@ -1,4 +1,5 @@
 # tcpfeature
+# 29 characteristics of network attack data
 | # | feature | Description |
 |---|---------|-------------|
 | 1 | duration | length (number of seconds) of the connection |
