@@ -43,6 +43,6 @@ V. K. Nguyen, M. Nhat Quang Truong, V. L. Le, Q. Thang Le and T. H. Nguyen, "A N
 | 28 | dst_host_rerror_rate | % of connections to the current host that have an RST error |
 | 29 | dst_host_srv_rerror_rate | % of connections to the current host and specified service that have an RST error |
 
-# Reference
+# References
 
 http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
