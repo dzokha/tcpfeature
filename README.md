@@ -2,6 +2,11 @@
 
 Tcpfeature module is proposed to extract, normalize 29 features from network packets
 
+```
+V. K. Nguyen, M. Nhat Quang Truong, V. L. Le, Q. Thang Le and T. H. Nguyen, "A Novel Approach for Data Collection and Network Attack Warning," 2019 11th International Conference on Knowledge and Systems Engineering (KSE), 2019, pp. 1-6, doi: 10.1109/KSE.2019.8919494.
+```
+
+
 # 29 characteristics of network attack data
 
 | # | Feature | Description |
