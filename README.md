@@ -45,4 +45,5 @@ V. K. Nguyen, M. Nhat Quang Truong, V. L. Le, Q. Thang Le and T. H. Nguyen, "A N
 
 # References
 
-http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+1. http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+2. https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset
